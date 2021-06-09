@@ -11,8 +11,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently trying to learn **Javascript**
 - 👯 I’m looking to collaborate on **Flutter**
 - 🤔 I’m looking for help with **Full Stack Development**
-- 💬 Ask me about **How to waste time**
-- 
+- 💬 Ask me about **Finance** 
  ---
  <p align="center"> <img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/coder.gif" alt="codergif" /> </p>
 
@@ -40,7 +39,7 @@ Here are some ideas to get you started:
 </h2>
 
 | [<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/prithvi-jadwani-681445203/) |  [<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/keyuljain/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/Phantom77777) | [<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:coolprithvi95@gmail.com)
-|:---:|:---:|:---:|:---:|:---:|
+
 
 <br>
 <br>
