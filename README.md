@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ---
 <center>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phantom77777 &layout=compact)](https://github.com/Phantom77777/ProfileReadme)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phantom77777&layout=compact)](https://github.com/Phantom77777/ProfileReadme)
 
 </center>
 <hr>
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 📫 Connect with me<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Handshake.gif" height="32px">
 </h2>
 
-| [<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/prithvi-jadwani-681445203/) |  [<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/keyuljain/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/Phantom77777) | [<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:coolprithvi95@gmail.com)
+ [<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/prithvi-jadwani-681445203/) |  [<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/keyuljain/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/Phantom77777) | [<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:coolprithvi95@gmail.com)
 
 
 <br>
